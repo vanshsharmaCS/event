@@ -20,13 +20,18 @@ A modern, responsive Event Calendar built with **React**, **Vite**, and **Tailwi
 - **Vite** – Fast build tool with HMR
 - **Tailwind CSS** – Utility-first CSS for styling
 
+
 ---
 
 ## 📸 Preview
 
-![Calendar Screenshot](./screenshot.png) <!-- Add screenshot if available -->
+<img width="932" height="592" alt="Screenshot from 2025-07-21 14-25-14" src="https://github.com/user-attachments/assets/d1a999e2-7392-4a6a-9540-9a711b0ef156" /> <!-- Add screenshot if available -->
 
 ---
 
-## 📂 Folder Structure
-
+# step for run :
+- simple clone
+- npm install
+- npm run dev
+- you run the project
+  
